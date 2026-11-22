@@ -1,5 +1,7 @@
 # Lil Nero for Claude
 
+[![mcptry](https://mcptry.com/badge/com.lilnero/lil-nero)](https://mcptry.com/servers/com.lilnero/lil-nero)
+
 [Lil Nero](https://lilnero.com) is an AI content strategist for YouTube, X, Instagram and Threads creators. This plugin adds the `/hey-nero` command and connects Claude to the Lil Nero server (`https://mcp.lilnero.com/mcp`).
 
 ## Install

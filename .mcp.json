@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "lil-nero": { "type": "http", "url": "https://mcp.lilnero.com/mcp" }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name": "lil-nero",
+  "version": "1.0.0",
+  "description": "Lil Nero, the AI content strategist for YouTube, X, Instagram and Threads creators. Type /hey-nero and ask what to post: it studies your posts and competitors, finds outliers, fixes titles and hooks, and drafts ideas and weekly plans.",
+  "author": {
+    "name": "Lil Nero",
+    "url": "https://lilnero.com"
+  },
+  "homepage": "https://lilnero.com",
+  "license": "MIT",
+  "keywords": [
+    "content strategy",
+    "creators",
+    "youtube",
+    "x",
+    "instagram",
+    "threads",
+    "outliers",
+    "hooks"
+  ],
+  "skills": "./skills/",
+  "privacyPolicyUrl": "https://lilnero.com/privacy/",
+  "repository": "https://github.com/TheRexyCodes/lil-nero-claude"
+}

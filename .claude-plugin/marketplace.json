@@ -1,0 +1,18 @@
+{
+  "name": "lil-nero",
+  "owner": {
+    "name": "Lil Nero",
+    "email": "support@lilnero.com"
+  },
+  "metadata": {
+    "description": "Lil Nero, the AI content strategist for creators, as a Claude plugin."
+  },
+  "plugins": [
+    {
+      "name": "lil-nero",
+      "source": "./",
+      "description": "Lil Nero, the AI content strategist: /hey-nero for YouTube, X, Instagram and Threads creators.",
+      "category": "productivity"
+    }
+  ]
+}
